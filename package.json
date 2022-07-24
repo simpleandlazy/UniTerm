@@ -1,0 +1,11 @@
+{
+  "name": "com.simpleandlazy.uniterm",
+  "version": "1.0.0",
+  "displayName": "UniTerm",
+  "description": "UniTerm",
+  "unity": "2020.3",
+  "author": {
+    "name": "UniTerm",
+    "email": "simpleandlazy99@gmail.com"
+  }
+}

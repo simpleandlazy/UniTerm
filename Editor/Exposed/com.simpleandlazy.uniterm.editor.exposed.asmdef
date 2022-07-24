@@ -1,0 +1,18 @@
+{
+  "name": "com.simpleandlazy.uniterm.editor.exposed",
+  "references": [
+    "com.simpleandlazy.uniterm.editor",
+    "com.simpleandlazy.uniterm.editor.public"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
