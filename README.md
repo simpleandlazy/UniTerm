@@ -1,5 +1,5 @@
 # UniTerm
-Use terminal without leaving Unity.
+Use terminal in Unity Editor
 - MacOS Usecase  
 [![MacOS Usecase](https://img.youtube.com/vi/h9AQWearwZw/0.jpg)](https://www.youtube.com/watch?v=h9AQWearwZw)
 ## Table of Contents
